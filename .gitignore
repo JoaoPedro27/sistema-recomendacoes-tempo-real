@@ -1,4 +1,6 @@
 # .gitignore
+.gitignore
+requirements.txt
 # Dependências Python
 venv/
 __pycache__/
