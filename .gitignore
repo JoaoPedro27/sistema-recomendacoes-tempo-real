@@ -1,0 +1,17 @@
+# .gitignore
+# Dependências Python
+venv/
+__pycache__/
+*.pyc
+
+# Docker e Kafka
+data/
+logs/
+
+# Ambiente virtual
+.env
+.env.local
+
+# IDE/Editor
+.vscode/
+.idea/
